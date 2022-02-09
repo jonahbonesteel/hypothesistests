@@ -1,2 +1,2 @@
 # hypothesistests
-
+This was an exercise that I used to practice my Python statistical scripting skills. I created a function that takes in 4 data values, a sample mean, and a confidence level, and returns a conclusion statement on whether or not there is a significant different at the specified confidence level. It also returns "That confidence level is not supported." if the given confidence level is not 90, 95, or 99 percent. I designed this function for a two-sided t-test, lower-bound t-test, and upper-bound t-test.
